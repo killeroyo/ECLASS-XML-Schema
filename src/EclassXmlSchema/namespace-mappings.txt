@@ -1,0 +1,24 @@
+# Namespace mappings for xscgen
+# Format: XML namespace = C# namespace
+
+http://www.bmecat.org/bmecat/2005.2 = EclassXmlSchema.BMEcat
+urn:eclass:template:xml-schema:data-type:5.0 = EclassXmlSchema.EclassTemplate.DataType
+urn:eclass:template:xml-schema:template:5.0 = EclassXmlSchema.EclassTemplate.Template
+urn:eclass:xml-schema:common:5.0 = EclassXmlSchema.Eclass.Common
+urn:eclass:xml-schema:dictionary:5.0 = EclassXmlSchema.Eclass.Dictionary
+urn:eclass:xml-schema:free-relation:5.0 = EclassXmlSchema.Eclass.FreeRelation
+urn:eclass:xml-schema:header:5.0 = EclassXmlSchema.Eclass.Header
+urn:eclass:xml-schema:mapping:5.0 = EclassXmlSchema.Eclass.Mapping
+urn:eclass:xml-schema:query:5.0 = EclassXmlSchema.Eclass.Query
+urn:eclass:xml-schema:response:5.0 = EclassXmlSchema.Eclass.Response
+urn:eclass:xml-schema:units:5.0 = EclassXmlSchema.Eclass.Units
+urn:iso:std:iso:is:13584:-32:ed-1:tech:xml-schema:ontoml = EclassXmlSchema.Iso13584
+urn:iso:std:iso:ts:22745:-30:ed-1:tech:xml-schema:data-type = EclassXmlSchema.Iso22745.DataType
+urn:iso:std:iso:ts:22745:-30:ed-1:tech:xml-schema:identification-guide = EclassXmlSchema.Iso22745.IdentificationGuide
+urn:iso:std:iso:ts:29002:-10:ed-1:tech:xml-schema:catalogue = EclassXmlSchema.Iso29002.Catalogue
+urn:iso:std:iso:ts:29002:-10:ed-1:tech:xml-schema:value = EclassXmlSchema.Iso29002.Value
+urn:iso:std:iso:ts:29002:-31:ed-1:tech:xml-schema:query = EclassXmlSchema.Iso29002.Query
+urn:iso:std:iso:ts:29002:-4:ed-1:tech:xml-schema:basic = EclassXmlSchema.Iso29002.Basic
+urn:iso:std:iso:ts:29002:-5:ed-1:tech:xml-schema:identifier = EclassXmlSchema.Iso29002.Identifier
+urn:oasis:names:tc:unitsml:schema:xsd:UnitsMLSchema-1.0 = EclassXmlSchema.UnitsML
+http://www.w3.org/XML/1998/namespace = EclassXmlSchema.W3C.Xml
